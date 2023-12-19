@@ -1,0 +1,257 @@
+{"content": "what is the corporate headquarters address of Exxon Mobil Corporation?", "summary": "Exxon Mobil Corporation's corporate headquarters is located at 5959 Las Colinas Blvd, Irving, Texas 75039-2298."}
+
+{"content": "What is the website address of Exxon Mobil Corporation?", "summary": "The website address of Exxon Mobil Corporation is exxonmobil.com."}
+
+{"content": "When did Exxon Mobil Corporation lay out a growth strategy?", "summary": "Exxon Mobil Corporation laid out its growth strategy in 2018."}
+
+{"content": "What was the earnings of Exxon Mobil Corporation in 2018?", "summary": "Exxon Mobil Corporation's earnings in 2018 were $20,840 million."}
+
+{"content": "What was the cash flow from operations and asset sales of Exxon Mobil Corporation in 2018?", "summary": "In 2018, Exxon Mobil Corporation generated cash flow from operations and asset sales of $40 billion."}
+
+{"content": "What is the estimate of recoverable resources in Guyana for Exxon Mobil Corporation?", "summary": "Exxon Mobil Corporation's estimate of recoverable resources in Guyana is more than 5 billion barrels of oil equivalent."}
+
+{"content": "How does Exxon Mobil Corporation plan to reduce environmental impacts and manage the risks of climate change?", "summary": "Exxon Mobil Corporation is committed to reducing greenhouse gas emissions from its operations and developing low-carbon technologies like carbon capture and storage and advanced biofuels."}
+
+{"content": "What are the competitive advantages of Exxon Mobil Corporation?", "summary": "Exxon Mobil Corporation's competitive advantages include a sharp focus on fundamentals, innovative technology, deep integration across businesses, disciplined investment in advantaged projects, and industry-leading execution from its highly skilled workforce."}
+
+{"content": "How does Exxon Mobil Corporation contribute to meeting growing energy needs while protecting the environment?", "summary": "Exxon Mobil Corporation contributes to meeting growing energy needs while protecting the environment by reducing greenhouse gas emissions, developing low-carbon technologies, and making products that help customers limit their emissions."}1. Data query: What was the net income of ExxonMobil in 2018?
+Answer: The net income of ExxonMobil in 2018 was not explicitly mentioned in the provided content. However, the 2018 earnings report indicated that the company achieved earnings of $21 billion in that year.
+
+2. Data statistical analysis: What is the average annual growth rate of ExxonMobil's chemical prime product sales since 2009?
+Answer: The average annual growth rate of ExxonMobil's chemical prime product sales since 2009 was not provided in the given information. More specific data is needed to calculate this growth rate.
+
+3. Open question: Can you tell us about ExxonMobil's competitive advantages?
+Answer: ExxonMobil possesses several competitive advantages that contribute to its success in the global energy industry. These advantages include a steadfast commitment to technology investments, allowing for innovation and industry-advantaged assets. The scale of the company's operations provides a foundation for long-term success and enables investments in advanced technologies. Integration across various hydrocarbon value chains and functional excellence in running a complex global business are further sources of competitive advantage. Lastly, ExxonMobil attributes its success to its dedicated and highly skilled workforce.
+
+4. Data query: How much money did ExxonMobil invest in research and development each year?
+Answer: The provided content states that ExxonMobil invests $1 billion each year in research and development. This demonstrates the company's commitment to innovation and advancements in technology.
+
+5. Data statistical analysis: What is the average return on average capital employed for Chevron?
+Answer: The average return on average capital employed for Chevron was not provided in the given information. Additional data specific to Chevron's financial performance is required to calculate this metric.
+
+6. Open question: How does ExxonMobil manage subsurface uncertainty in the upstream sector?
+Answer: ExxonMobil employs subsurface technologies to manage uncertainty in the upstream sector. These technologies enable the identification of potential oil and natural gas deposits below the surface, optimizing investments in key growth areas. Through the utilization of seismic data, proprietary algorithms, and integrated reservoir modeling and simulation technologies, the company gains a deeper understanding of subsurface conditions. This comprehensive approach allows for informed investment decisions and the maximization of oil and gas recovery from existing reservoirs.
+
+7. Data query: What is the total number of scientific papers published by ExxonMobil in the past 10 years?
+Answer: The content mentions that ExxonMobil published over 1,000 scientific papers in the past 10 years. This reflects the company's commitment to scientific research and development.
+
+8. Data statistical analysis: What is the percentage increase in cash flow from operating activities for ExxonMobil from 2014 to 2018?
+Answer: The percentage increase in cash flow from operating activities for ExxonMobil from 2014 to 2018 was not explicitly provided in the given information. More specific data related to the company's financial statements is necessary to calculate this percentage.
+
+9. Open question: How does ExxonMobil invest in capturing growth in demand for lower-carbon solutions?
+Answer: ExxonMobil invests in research and development to develop scalable and affordable technologies that meet the growing demand for lower-emission fuels. This includes efforts in algae biofuels, cellulosic biofuels, and carbon capture, utilization, and storage (CCUS) solutions. Collaborations with partners and ongoing research aim to reduce the intensity of existing manufacturing processes and identify new materials and technologies for CO2 capture and utilization. The company's focus on technology breakthroughs aligns with its aim to improve efficiency and promote sustainability.
+
+10. Data query: What is the refinery throughput of ExxonMobil in thousands of barrels per day?
+Answer: The content states that the refinery throughput of ExxonMobil is 4,272 thousand barrels per day, indicating the company's significant refining capabilities.1. **Q: What are some of the technology breakthroughs that ExxonMobil has achieved?**
+   A: ExxonMobil has achieved several technology breakthroughs, including more-durable tires, 3D seismic imaging, extended-mileage lubricants, synthetic motor oil, ultra-deepwater drilling, large LNG ships, and lithium batteries. These advancements have helped improve efficiency, resource recovery, product margins, and identified future opportunities. 
+
+2. **Q: What is the projected growth rate of ExxonMobil's greenhouse gas emissions in the future?**
+   A: ExxonMobil is actively working to reduce greenhouse gas emissions and improve environmental performance. While specific growth rate projections may vary, the company is committed to investing in technology and research to decrease emissions, increase energy efficiency, and develop cleaner energy sources. 
+
+3. **Q: How does ExxonMobil leverage its size and breadth of operations to drive down costs and pursue value-accretive investments?**
+   A: ExxonMobil's size and extensive operations allow the company to benefit from economies of scale and capture synergies across its various businesses. This enables them to optimize processes, drive down costs, and make value-accretive investments. By leveraging their global footprint, ExxonMobil can replicate successful innovations, share best practices, and effectively allocate resources to maximize returns. 
+
+4. **Q: How many barrels of crude does ExxonMobil handle annually across its businesses?**
+   A: ExxonMobil handles approximately 2.5 billion barrels of crude annually across its businesses. This significant volume highlights the company's extensive involvement in the production, refining, and distribution of crude oil worldwide. 
+
+5. **Q: What is the expected increase in ExxonMobil's manufacturing capacity in North America and Asia due to new facility investments?**
+   A: ExxonMobil is investing in new facilities to increase its manufacturing capacity in North America and Asia. These investments are expected to result in a 40-percent increase in manufacturing capacity in these regions. The company's expansion plans aim to cater to growing demand for high-performance chemical products and enable it to meet the evolving market needs efficiently. 
+
+6. **Q: How does ExxonMobil's financial strength position the company to invest throughout commodity price cycles?**
+   A: ExxonMobil's industry-leading financial strength provides the company with the capacity to invest in projects during commodity price cycles. This financial stability enables ExxonMobil to pursue a broad portfolio of investment opportunities and take advantage of counter-cyclical opportunities to deliver projects with lower costs and higher returns compared to others in the industry. 
+
+7. **Q: How many new facilities has ExxonMobil started up in the Chemical business since 2017?**
+   A: Since 2017, ExxonMobil has started up seven new facilities in the Chemical business. These new facilities are part of the company's strategy to meet the growing demand for high-performance chemical products and strengthen its position in the market. Additionally, the company has plans to complete six more projects by 2025, further expanding its manufacturing capacity. 
+
+8. **Q: What is the cumulative earnings contribution expected from equipment monitoring and process analysis in ExxonMobil's Downstream business between 2017 and 2020?**
+   A: The cumulative earnings contribution expected from equipment monitoring and process analysis in ExxonMobil's Downstream business between 2017 and 2020 is estimated to be more than $500 million. By leveraging advanced analytics and real-time data, ExxonMobil optimizes its manufacturing circuit, identifies operational efficiencies, and enhances overall performance, which translates into significant financial gains. 
+
+9. **Q: Can you explain how ExxonMobil optimizes strategies for operating and maintaining essential equipment across its global manufacturing sites?**
+   A: ExxonMobil leverages its global footprint and extensive scale to optimize strategies for operating and maintaining essential equipment across its global manufacturing sites. The company has a network of technology centers staffed with scientists and engineers who collaborate with manufacturing sites, production units, projects, and ventures. By centralizing analysis of real-time data, ExxonMobil identifies equipment strategies efficiently, reduces risks, increases reliability, and continuously improves its global equipment fleet.
+
+10. **Q: How many integrated sites does ExxonMobil have in total and in how many countries?**
+    A: ExxonMobil has a total of 1312 integrated sites located in nine countries. These integrated sites enable the company to maximize value across the entire value chain by sharing support organizations, facility infrastructure, and capturing synergies. The integrated business model also provides diversification and helps mitigate the impact of commodity price cycles.1. Q: What does our North American operations in the Permian and other basins produce?
+   A: Our North American operations in the Permian and other basins produce oil and natural gas.
+
+2. Q: Where are the Permian crude volumes transported to?
+   A: The Permian crude volumes are transported via integrated midstream assets to refineries and chemical complexes along the U.S. Gulf Coast and in the Midwest.
+
+3. Q: How did we leverage our logistics capacity when crude prices declined in the Permian and Western Canada?
+   A: When crude prices declined in the Permian and Western Canada in 2018, we leveraged our logistics capacity to move the lower-cost feedstocks into our refinery network.
+
+4. Q: What savings do we realize at integrated sites with refining and chemical manufacturing plants?
+   A: At integrated sites with refining and chemical manufacturing plants, we realize significant savings by sharing resources, using interconnected facilities, and coordinating operating practices.
+
+5. Q: What is the purpose of the Singapore manufacturing complex?
+   A: The purpose of the Singapore manufacturing complex is to process high-quality Permian crudes and upgrade them to higher-value fuels and products for global markets, as well as integrate the Singapore Banyan aromatics facility with the adjacent petrochemical facility.
+
+6. Q: What was the growth rate of crude prices in the Permian and Western Canada in 2018?
+   A: The growth rate of crude prices in the Permian and Western Canada in 2018 declined due to industry pipeline constraints.
+
+7. Q: How does integration increase margins in the refining and chemical industry?
+   A: Integration increases margins in the refining and chemical industry by lowering the cost of feedstocks while enabling the production of the highest-value products.
+
+8. Q: What are the expected outcomes of integrating the Singapore Banyan aromatics facility with the adjacent petrochemical facility?
+   A: The expected outcomes of integrating the Singapore Banyan aromatics facility with the adjacent petrochemical facility include improved feed and energy costs, enhanced molecule management, and increased utilization of existing logistics capabilities.
+
+9. Q: How does the integration in the Permian Basin benefit our refineries and chemical plants in different regions?
+   A: The integration in the Permian Basin benefits our refineries and chemical plants in different regions by providing flexibility to move cost-advantaged feedstocks to these facilities in the Americas, Asia Pacific, and Europe.
+
+10. Q: What is the projected increase in our Singapore refinery's competitiveness as a result of the integration?
+    A: As a result of the integration, the projected increase in our Singapore refinery's competitiveness is expected to position it in the top quartile of global refinery competitiveness and gain a competitive advantage from cracking crude into chemical products.{"content": "How many PhDs are employed at ExxonMobil?", 
+ "summary": "ExxonMobil employs over 2,200 PhDs across multiple disciplines, including petroleum engineering, manufacturing technology, behavioral science, mathematics, and biology."}
+
+{"content": "What is the average service length of career employees at ExxonMobil?", 
+ "summary": "The average service length of career employees at ExxonMobil is 30 years."}
+
+{"content": "Tell us about ExxonMobil's approach to people development and career advancement.", 
+ "summary": "ExxonMobil places a priority on maximizing the development of each employee. They begin by recruiting exceptional talent and continue with individually planned assignments and experiences that lead to broad skill development and a deep understanding of the businesses. They have a personalized approach to career development, resulting in a retention rate of 96 percent and an average length of service of 30 years for career employees. They set high performance expectations, foster a work environment in which every employee has the opportunity to excel, and reward employees based on their performance and contributions."}
+
+{"content": "How many nationalities are represented in ExxonMobil's workforce?", 
+ "summary": "ExxonMobil's workforce represents 160 nationalities."}
+
+{"content": "What is the average number of patents registered by ExxonMobil employees each year?", 
+ "summary": "Over the past decade, ExxonMobil employees have registered an average of more than 1,000 new patents each year, with a record high of 1,700 in 2018. These patents cover a wide range of technology, such as proprietary algorithms, new catalysts, high-strength steel, and advanced statistical methods."}
+
+{"content": "Explain the role of technical expertise in ExxonMobil's long-term success.", 
+ "summary": "ExxonMobil is a science and technology company, and technical expertise and leadership are fundamental to their long-term success. They employ more than 16,000 engineers and 2,200 PhDs across multiple disciplines. The diverse, technical workforce brings broad perspectives that drive innovation and the development of proprietary technologies. Their employees have registered numerous patents and have been recognized for their world-class capabilities and knowledge."}
+
+{"content": "How many job rotations were there in support of development plans in 2018?", 
+ "summary": "In 2018, ExxonMobil had more than 25,000 job rotations in support of development plans."}
+
+{"content": "What is the daily net oil and gas production of ExxonMobil in oil-equivalent barrels?", 
+ "summary": "ExxonMobil's daily net oil and gas production is 3.8 million oil-equivalent barrels."}
+
+{"content": "Describe ExxonMobil's presence and operations in different countries.", 
+ "summary": "ExxonMobil has a diverse presence and operations in 41 countries. They are active in all aspects of the Upstream, Downstream, and Chemical businesses, from exploring and developing to marketing hydrocarbon resources worldwide. They have refining and lubricant blending facilities in 25 countries and are one of the largest integrated refiners and marketers of fuels and lubricants. They also have manufacturing facilities in 16 countries, making them one of the most profitable chemical companies."}
+
+{"content": "Discuss the significance of ExxonMobil's diverse workforce in driving innovation and value creation.", 
+ "summary": "ExxonMobil values a diverse workforce that is representative of where they do business. Their diverse, technical workforce brings broad perspectives that drive innovation and the development of proprietary technologies. They believe that diversity fosters creativity, innovation, and better decision-making. The range of experiences and knowledge among their employees allows them to identify and capture benefits across the value chain. Their diverse workforce has been instrumental in delivering value through projects like the Rotterdam advanced hydrocracker and has been recognized with awards for their capabilities and commitment to excellence."}{"content": "What is the net profit of ExxonMobil in 2018?", 
+ "summary": "ExxonMobil's net profit in 2018 was $14,079 million."}
+
+{"content": "What is the return on average capital employed in the Upstream segment in 2017?", 
+ "summary": "The return on average capital employed in the Upstream segment in 2017 was 7.6%."}
+
+{"content": "Can you provide some highlights of ExxonMobil's Downstream business in 2018?", 
+ "summary": "Highlights of ExxonMobil's Downstream business in 2018 include earnings of $6,010 million, refinery throughput of 4,272 thousand barrels per day, and petroleum product sales of 5,512 thousand barrels per day. They also completed three major refinery investments, expanded their branded retail presence, and increased lubricants and fuels sales volume in growing markets."}
+
+{"content": "What is the average capital employed in the Chemical segment in 2016?", 
+ "summary": "The average capital employed in the Chemical segment in 2016 was $170,055 million."}
+
+{"content": "What is the growth rate of liquids production in the Upstream segment from 2014 to 2018?", 
+ "summary": "The growth rate of liquids production in the Upstream segment from 2014 to 2018 was more than 3%."}
+
+{"content": "How does ExxonMobil plan to grow its Permian production by 2024?", 
+ "summary": "ExxonMobil plans to grow its Permian production to more than 1 million oil-equivalent barrels per day net by 2024."}
+
+{"content": "What is the refinery throughput in the Downstream segment in 2015?", 
+ "summary": "The refinery throughput in the Downstream segment in 2015 was 4,432 thousand barrels per day."}
+
+{"content": "What is the return on average capital employed in the Chemical segment in 2017?", 
+ "summary": "The return on average capital employed in the Chemical segment in 2017 was 19.3%."}
+
+{"content": "What are ExxonMobil's competitive advantages in the Downstream segment?", 
+ "summary": "ExxonMobil's competitive advantages in the Downstream segment include proprietary exploration technologies, leveraging scale and financial capacity, low-cost development and an integrated business model, functional excellence, and critical anchor positions filled by highly skilled personnel."}
+
+{"content": "What is the capital expenditure in the Downstream segment in 2014?", 
+ "summary": "The capital expenditure in the Downstream segment in 2014 was $3,034 million."}{"content": "What are ExxonMobil's goals for growing earnings, cash flow, and ROCE?", "summary": "ExxonMobil's goals for growing earnings, cash flow, and ROCE include capturing full value-chain benefits, progressing refinery projects, growing lube basestock and synthetic lubricants businesses, and expanding fuels and lubricants brand presence in growing markets."}
+
+{"content": "How many employees fill critical anchor positions in ExxonMobil's Downstream business?", "summary": "Approximately 2,800 employees fill critical anchor positions in ExxonMobil's Downstream business. These employees are highly skilled, with in-depth technical knowledge and demonstrated leadership, and play important roles in supporting safe and reliable operations at the facilities."}
+
+{"content": "What were ExxonMobil Chemical's earnings in 2018?", "summary": "ExxonMobil Chemical's earnings in 2018 were $3,351 million."}
+
+{"content": "How many prime product sales did ExxonMobil Chemical report in 2017?", "summary": "ExxonMobil Chemical reported 25,420 thousand tonnes of prime product sales in 2017."}
+
+{"content": "What is the average capital employed by ExxonMobil Chemical in 2016?", "summary": "The average capital employed by ExxonMobil Chemical in 2016 was $24,844 million."}
+
+{"content": "What was the return on average capital employed for ExxonMobil Chemical in 2015?", "summary": "The return on average capital employed for ExxonMobil Chemical in 2015 was 18.6%."}
+
+{"content": "How much did ExxonMobil Chemical spend on capital expenditures in 2014?", "summary": "ExxonMobil Chemical spent $2,207 million on capital expenditures in 2014."}
+
+{"content": "What safety performance did ExxonMobil Chemical achieve in the past year?", "summary": "ExxonMobil Chemical achieved strong safety performance in the past year."}
+
+{"content": "How many new facilities does ExxonMobil plan to progress utilizing global feedstock flexibility and supply scale?", "summary": "ExxonMobil plans to progress 13 new facilities utilizing global feedstock flexibility and supply scale."}
+
+{"content": "By what percentage does ExxonMobil plan to grow sales of high-value performance products by 2025?", "summary": "ExxonMobil plans to grow sales of high-value performance products by 50% by 2025."}{"content": "What laws does ExxonMobil require employees to comply with?", "summary": "ExxonMobil requires that employees, officers, directors, and those working on our behalf comply with all applicable laws, including U.S. anti-corruption, anti-trust, anti-boycott, trade sanctions, and export controls laws, as well as laws in other countries applicable to our business."}
+
+{"content": "What was the net income of ExxonMobil in 2018?", "summary": "The net income of ExxonMobil in 2018 was $20,840 million."}
+
+{"content": "Can you explain ExxonMobil's approach to corporate governance and its impact on long-term growth?", "summary": "Good corporate governance creates a business environment that supports long-term growth. ExxonMobil's Board of Directors, comprised of the CEO and nine independent directors, provides a key oversight role, including review of risk management efforts and strategic plans. Ensuring that we have diversity of backgrounds, experiences, and thought represented on the board remains critical to our success."}
+
+{"content": "What is the functional currency used by ExxonMobil for translating its accounts in most Downstream and Chemical operations outside the United States?", "summary": "The functional currency for translating the accounts of the majority of Downstream and Chemical operations outside the United States is the local currency. The U.S. dollar is used for operations in countries with a history of high inflation and certain other countries."}
+
+{"content": "What were the total debt amounts at the end of 2018, 2017, and 2016 for ExxonMobil?", "summary": "The total debt amounts at the end of 2018, 2017, and 2016 for ExxonMobil were $37,796 million, $42,336 million, and $42,762 million, respectively."}
+
+{"content": "How does ExxonMobil account for its exploration and production activities?", "summary": "ExxonMobil accounts for its exploration and production activities under the 'successful efforts' method. Depreciation, depletion, and amortization are primarily determined under either the unit-of-production method or the straight-line method. Unit-of-production rates are based on the amount of proved developed reserves of oil, natural gas, and other minerals that are estimated to be recoverable from existing facilities. The straight-line method is based on estimated asset service life."}
+
+{"content": "How is revenue recognized by ExxonMobil?", "summary": "Revenue is recognized by ExxonMobil at the amount the Corporation expects to receive when the customer has taken control, which is typically when title transfers and the customer has assumed the risks and rewards of ownership."}
+
+{"content": "What was the average capital employed by ExxonMobil in 2018, 2017, and 2016?", "summary": "The average capital employed by ExxonMobil in 2018, 2017, and 2016 was $232,374 million, $222,631 million, and $212,226 million, respectively."}
+
+{"content": "Can you provide information on ExxonMobil's dividend and shareholder return in 2018, 2017, and 2016?", "summary": "In 2018, ExxonMobil paid dividends of $3.23 per common share. The dividend per share growth for 2018 was 5.6%. The total shareholder return for 2018 was -15.1%. In 2017, ExxonMobil paid dividends of $3.06 per common share. The dividend per share growth for 2017 was 2.7%. The total shareholder return for 2017 was -3.8%. In 2016, ExxonMobil paid dividends of $2.98 per common share. The dividend per share growth for 2016 was 3.5%. The total shareholder return for 2016 was 19.8%."}
+
+{"content": "What are the current assets listed on ExxonMobil's balance sheet at the end of 2018 and 2017?", "summary": "The current assets listed on ExxonMobil's balance sheet at the end of 2018 and 2017 were $3,042 million and $3,177 million, respectively."}{"content": "What were ExxonMobil's total current assets in 2018 and 2017?", 
+"summary": "ExxonMobil's total current assets were $47,973 million in 2018 and $47,134 million in 2017."}
+
+{"content": "What was the change in ExxonMobil's net income from 2016 to 2018?", 
+"summary": "ExxonMobil's net income increased from $7,840 million in 2016 to $20,840 million in 2018, representing a significant growth rate."}
+
+{"content": "Can you provide an overview of ExxonMobil's cash flows from operating activities in 2018?", 
+"summary": "ExxonMobil's cash flows from operating activities in 2018 amounted to $36,014 million, reflecting strong performance and efficient management of its core operations."}
+
+{"content": "How much did ExxonMobil's long-term debt decrease from 2017 to 2018?", 
+"summary": "ExxonMobil's long-term debt decreased by $3,868 million, from $24,406 million in 2017 to $20,538 million in 2018."}
+
+{"content": "What was the percentage change in ExxonMobil's total liabilities from 2017 to 2018?", 
+"summary": "ExxonMobil's total liabilities decreased by approximately 4.3% from $154,191 million in 2017 to $147,668 million in 2018."}
+
+{"content": "Could you explain the components of ExxonMobil's equity in 2018?", 
+"summary": "ExxonMobil's equity in 2018 consisted of common stock without par value amounting to $15,258 million, earnings reinvested totaling $421,653 million, accumulated other comprehensive income of $(19,564) million, and common stock held in treasury at $(225,553) million. The total equity, including noncontrolling interests, was $198,528 million."}
+
+{"content": "What was the total cash and cash equivalents at the end of 2017?", 
+"summary": "ExxonMobil's total cash and cash equivalents at the end of 2017 amounted to $3,177 million."}
+
+{"content": "What was the growth rate of ExxonMobil's dividends to noncontrolling interests from 2016 to 2018?", 
+"summary": "The growth rate of ExxonMobil's dividends to noncontrolling interests from 2016 to 2018 is not explicitly provided in the given information. Additional data is required to calculate this specific growth rate."}
+
+{"content": "Can you provide insights into ExxonMobil's total shareholder return for the specified period?", 
+"summary": "The information provided doesn't mention the specific total shareholder return for the specified period. Further data is necessary to calculate this measure accurately."}
+
+{"content": "How much did ExxonMobil's additions to property, plant, and equipment decrease from 2017 to 2018?", 
+"summary": "ExxonMobil's additions to property, plant, and equipment decreased by $3,172 million, from $15,402 million in 2017 to $12,230 million in 2018."}{"content": "What is the net profit of ExxonMobil in 2018?", "summary": "ExxonMobil's net profit in 2018 was not explicitly provided in the given content."}
+
+{"content": "What is the growth rate of ExxonMobil's average capital employed from 2014 to 2018?", "summary": "The growth rate of ExxonMobil's average capital employed from 2014 to 2018 cannot be calculated without specific data on the capital employed in each of those years."}
+
+{"content": "Can you provide information about ExxonMobil's standing committees of the board?", "summary": "ExxonMobil has several standing committees of the board, including the Audit Committee, Board Affairs Committee, Compensation Committee, Finance Committee, Public Issues and Contributions Committee, and Executive Committee. Each committee is responsible for specific areas of corporate governance and decision-making."}
+
+{"content": "What is the total assets of ExxonMobil in 2015?", "summary": "The total assets of ExxonMobil in 2015 were not provided in the given content."}
+
+{"content": "What is the return on average capital employed in 2017?", "summary": "The return on average capital employed in 2017 was not explicitly mentioned in the given content."}
+
+{"content": "Tell us about the role of Darren W. Woods in ExxonMobil.", "summary": "Darren W. Woods is the Chairman of the Board and Chief Executive Officer of ExxonMobil. He plays a crucial role in leading the company's strategic decision-making, overseeing its operations, and driving its overall growth and success."}
+
+{"content": "What is the long-term debt of ExxonMobil in 2016?", "summary": "The specific long-term debt amount of ExxonMobil in 2016 was not provided in the given content."}
+
+{"content": "What is the annual growth rate of ExxonMobil's net cash provided by operating activities from 2014 to 2018?", "summary": "The annual growth rate of ExxonMobil's net cash provided by operating activities from 2014 to 2018 cannot be determined without explicit data for each of those years."}
+
+{"content": "Can you provide information about the finance committee of ExxonMobil's board?", "summary": "The Finance Committee is one of ExxonMobil's standing committees of the board. It is chaired by Darren W. Woods and comprises other board members, including U.M. Burns, D.R. Oberhelman, and W.C. Weldon. The Finance Committee is responsible for overseeing financial matters and providing recommendations to the board on financial strategies, policies, and operations."}
+
+{"content": "What is the total capital employed of ExxonMobil in 2018?", "summary": "The total capital employed of ExxonMobil in 2018 was not explicitly mentioned in the given content."}{"content": "What is the address of Exxon Mobil Corporation's corporate headquarters?", "summary": "Exxon Mobil Corporation's corporate headquarters is located at 5959 Las Colinas Boulevard, Irving, TX 75039-2298."}
+
+{"content": "What is the percentage change in Exxon Mobil Corporation's stock price in the last year?", "summary": "The percentage change in Exxon Mobil Corporation's stock price in the last year can be obtained by comparing the stock price at the end of the year with the stock price at the beginning of the year. This information is typically available from financial sources such as stock market websites or financial news outlets."}
+
+{"content": "Can you provide an overview of Exxon Mobil Corporation's corporate governance guidelines?", "summary": "Exxon Mobil Corporation's corporate governance guidelines outline the principles and practices that guide the company's governance structure. These guidelines cover various topics such as board composition, director independence, board committees, executive compensation, risk management, and shareholder engagement. Detailed information on Exxon Mobil Corporation's corporate governance guidelines can be found on the company's website under the 'Investors' section."}
+
+{"content": "How can shareholders access information about their ExxonMobil stock accounts?", "summary": "Shareholders can access information about their ExxonMobil stock accounts through the ExxonMobil Shareholder Services, which is managed by Computershare Trust Company, N.A., the company's transfer agent. Shareholders can contact ExxonMobil Shareholder Services via phone or visit their website to access account information. Registered shareholders can also access their stock accounts online through the Computershare website."}
+
+{"content": "What is the growth rate of Exxon Mobil Corporation's dividend payments over the past five years?", "summary": "To determine the growth rate of Exxon Mobil Corporation's dividend payments over the past five years, you would need to compare the dividend payments made in the current year with the dividend payments made five years ago. This information is typically available in the company's annual reports or financial statements. An analysis of these figures can provide the percentage growth rate of the dividend payments over the specified period."}
+
+{"content": "Can you explain Exxon Mobil Corporation's stock purchase and dividend reinvestment plan?", "summary": "Exxon Mobil Corporation offers a stock purchase and dividend reinvestment plan called the Computershare Investment Plan for Exxon Mobil Corporation Common Stock. This plan allows shareholders to purchase additional shares of Exxon Mobil Corporation's stock directly from the company and also reinvest their dividends to acquire additional shares. Shareholders can obtain more information about this plan and the required materials either through the Computershare website or by contacting ExxonMobil Shareholder Services."}
+
+{"content": "How can shareholders elect to have their dividends deposited directly into their U.S. bank accounts?", "summary": "Shareholders can elect to have their dividends deposited directly into their U.S. bank accounts by completing an authorization form, which can be obtained from the ExxonMobil Shareholder Services. Once the form is completed, shareholders can submit it through the Computershare website or by contacting ExxonMobil Shareholder Services directly. This option provides a convenient and efficient way for shareholders to receive their dividend payments."}
+
+{"content": "What is the average annual greenhouse gas emissions of Exxon Mobil Corporation?", "summary": "The average annual greenhouse gas emissions of Exxon Mobil Corporation can be obtained from the company's sustainability reports, which provide detailed information on the company's environmental performance. These reports outline the greenhouse gas emissions associated with Exxon Mobil Corporation's operations, including its facilities, transportation, and product use. It is important to note that these emissions may vary from year to year depending on various factors such as production levels and energy efficiency measures."}
+
+{"content": "Can you provide a summary of Exxon Mobil Corporation's publications that are available to shareholders?", "summary": "Exxon Mobil Corporation offers several publications to shareholders. These include the Summary Annual Report, which provides financial and operating highlights, the Annual Report on Form 10-K, which provides a comprehensive overview of the company's performance, the Financial & Operating Review, which delves deeper into the company's global operations, the Sustainability Report, which details the company's environmental and social initiatives, the Outlook for Energy: A View to 2040, which provides insights into the future of energy, and the Energy & Carbon Summary, which focuses on energy and carbon-related data. Shareholders can access these publications on the ExxonMobil website or request printed copies from ExxonMobil Shareholder Services."}
+
+{"content": "What is the stock symbol for Exxon Mobil Corporation?", "summary": "The stock symbol for Exxon Mobil Corporation is XOM. This symbol is used to identify and trade Exxon Mobil Corporation's common stock on the New York Stock Exchange, which is the principal exchange where the company's stock is traded."}
