@@ -2,11 +2,11 @@
 
 Group Members Name UNI
 
-Yi Lu yl5118  (Team Caption)
-Yanni Chen yc479 
-Junyuan Huang jh4608  
-Xiaolin Sima xs2483
-Michelle Sun ms6514
+* Yi Lu yl5118  (Team Caption)
+* Yanni Chen yc479 
+* Junyuan Huang jh4608  
+* Xiaolin Sima xs2483
+* Michelle Sun ms6514
 
 We want to unlock significant insights into the Oil and Gas Industry through the use of generative AI. 
 
