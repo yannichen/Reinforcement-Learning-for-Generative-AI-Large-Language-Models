@@ -21,7 +21,7 @@ The capstone project aims to test, fine-tune, and improve the performance of the
 Our team members contribute to the project equally with a detailed contribution summary under Meetings/Reports/Individual Report + Weekly Report Combine.pptx
 
 **Directory tree**
-
+```
 ├── .git\
 │   │
 │   ├── hooks\
@@ -510,3 +510,4 @@ Our team members contribute to the project equally with a detailed contribution 
 │
 ├── .DS_Store
 └── README.md
+```
