@@ -7,7 +7,7 @@
 - Junyuan Huang jh4608  
 - Xiaolin Sima xs2483
 - Michelle Sun ms6514
-- 
+
 Emails  &lt;UNI&gt; @ columbia.edu
 
 **Accenture mentor & co-mentors:** Satish Banka, Subha Seshagiri
