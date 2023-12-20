@@ -1,6 +1,6 @@
 # Reinforcement-Learning-for-Generative-AI-Large-Language-Models
 
-###Group Members Name UNI
+### Group Members Name UNI
 
 - Yi Lu yl5118  (Team Captain)
 - Yanni Chen yc479 
