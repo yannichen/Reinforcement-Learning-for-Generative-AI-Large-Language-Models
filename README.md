@@ -14,6 +14,7 @@ Emails  &lt;UNI&gt; @ columbia.edu
 
 **Instructor/CA:** Prof. Sining Chen, Vivian Zhang
 
-We want to unlock significant insights into the Oil and Gas Industry through the use of generative AI. 
+We want to unlock significant insights into the Oil and Gas Industry through the use of generative AI. Company documentations such as annual reports and sustainability reports can range from 50 to 500 pages, and often contain large amount of numeric and textual information. With the help of Large Language Models (LLMs), the process of understanding how the company performs can be really efficient. 
+
 
 Our team members contribute to the project equally with a detailed contribution summary under Meetings/Reports/Individual Report + Weekly Report Combine.pptx
